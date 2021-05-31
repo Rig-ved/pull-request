@@ -1,0 +1,2 @@
+This is another feature in feature1 branch which was pushed from local
+One more change in the feature 2 branch at anotherFeature.txt
