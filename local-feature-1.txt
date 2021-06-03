@@ -1,1 +1,2 @@
 New feature in feature1 branch
+I am modified in the detached head state
