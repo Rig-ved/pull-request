@@ -1,2 +1,4 @@
 New feature in feature1 branch
 I am modified in the detached head state
+Another change in the local dir which was done locally 
+Another Change in the local dir 
