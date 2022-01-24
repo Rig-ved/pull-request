@@ -4,3 +4,5 @@ Another change in the local dir which was done locally
 Another Change in the local dir 
 Stashing Changes
 Another feature in Remote 
+Another changes in the feature
+
