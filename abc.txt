@@ -8,4 +8,4 @@ Another in the feature branch
 Feature development
 In feature changes 
 In feature changes 2 
-
+New changes in feature 
