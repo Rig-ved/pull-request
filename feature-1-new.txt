@@ -1,3 +1,5 @@
 Hey I am another file in the feature branch 
 Changes in the feature-1-new in the remote branch by other developer
 Another Changes in the feature-1-new in the remote branch by other developer
+For changes
+More changes
