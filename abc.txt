@@ -6,3 +6,6 @@ Another line in the abc.txt
 ;Last
 Another in the feature branch
 Feature development
+In feature changes 
+In feature changes 2 
+
